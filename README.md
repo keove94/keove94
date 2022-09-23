@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @keove94. I'm a software developer with experience in a wide variety of programming languages and development environments.
+-     I've mostly focused on Java in Netbeans and Android Studio, SQL in MySQL, C++ in Visual Studio, and Python in Spyder.
+- 👀 I’m interested in finding employment in the software engineering field.
+- 🌱 I’m currently learning web development to expand my skills to more formats. I've been refreshing my HTML and CSS knowledge while also learning JavaScript.
+- 📫 If you're here from my resume you can reach me at the email provided!
